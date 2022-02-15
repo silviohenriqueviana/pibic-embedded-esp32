@@ -1,0 +1,3 @@
+[submodule "lib/communitacion-embedded"]
+	path = lib/communitacion-embedded
+	url = https://github.com/silviohenriqueviana/communication-embedded

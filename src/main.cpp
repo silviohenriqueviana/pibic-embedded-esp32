@@ -2,7 +2,6 @@
 #include "LoRa_E220.h"
 #include <LoRaE220Communication.h>
 
-// ---------- esp32 pins --------------
 LoRaE220Communication lora(&Serial2, 15, 21, 19, DeviceFunction::base_station);
 
 void setup(){
